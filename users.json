@@ -1,0 +1,33 @@
+{
+  "company": {
+    "name": "Tech Innovators",
+    "location": "New York"
+  },
+  "employees": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "position": "Developer"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "position": "Designer"
+    },
+    {
+      "id": 4,
+      "name": "Alice Walker",
+      "position": "Tester"
+    },
+    {
+      "id": 5,
+      "name": "Bob Johnson",
+      "position": "DevOps Engineer"
+    },
+    {
+      "id": 6,
+      "name": "Sarah Lee",
+      "position": "HR Manager"
+    }
+  ]
+}
